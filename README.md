@@ -22,6 +22,6 @@ The CNN is built with 4 convolutional layers and uses an Adam optimizer with ear
 
 ### Example Detection
 ![Emotion Detection Example](image1.png)
-![Emotion Detection Example](image2.png)
+![Emotion Detection Example](imge2.png)
 
 
